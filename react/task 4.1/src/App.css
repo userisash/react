@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+
+#box1{
+  position: relative;
+}
+#box2{
+  position: absolute;
+  top: 15px;
+  left: 7%;
+}
+#box3{
+  position: absolute;
+  position: relative;
+  left: 120px;
+  top: 30px;
+  /* margin-right: 20px; */
+}
+#box4{
+  position: absolute;
+  top: 20px;
+  left: 65px;
+}
